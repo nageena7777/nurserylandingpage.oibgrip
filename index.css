@@ -1,0 +1,502 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-logo {
+    color: #025906;
+    font-family: lobster;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#nav-link-items-1 {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#nav-link-items-2 {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#nav-link-items-3 {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#nav-link-items-4 {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.image {
+    height: 250px;
+    width: 110%;
+    background-size: cover;
+}
+
+.categories-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 50px;
+    font-weight: normal;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.succulent-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.succulent-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.succulent-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.bonsai-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.bonsai-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.bonsai-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.floweringplant-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.floweringplant-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.floweringplant-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.creepers-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.creepers-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.creepers-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.featuredplants-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 50px;
+    font-weight: normal;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.snakeplant-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.snakeplant-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.snakeplant-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.snakeplant-button {
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 5px;
+}
+
+.daffodils-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.daffodils-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.daffodils-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.daffodils-button {
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 5px;
+}
+
+
+.zamia-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.zamia-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.zamia-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.zamia-button {
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 5px;
+}
+
+.periwinkle-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.periwinkle-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.periwinkle-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.periwinkle-button {
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 5px;
+}
+
+.schefflera-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.schefflera-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.schefflera-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.schefflera-button {
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 5px;
+}
+
+.campanula-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.campanula-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.campanula-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.campanula-button {
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 5px;
+}
+
+.services-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 50px;
+    font-weight: normal;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.plantsupply-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.plantsupply-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.plantsupply-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.plantsupply-button {
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    width: 130px;
+    margin-bottom: 5px;
+}
+
+.nursery-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.nursery-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.nursery-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.nursery-button {
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    width: 130px;
+    margin-bottom: 5px;
+}
+
+.landscape-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.landscape-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.landscape-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.landscape-button {
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    width: 130px;
+    margin-bottom: 5px;
+}
+
+.garden-image {
+    padding: 10px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.garden-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.garden-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.garden-button {
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    width: 130px;
+    margin-bottom: 5px;
+}
+
+.abouts-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 50px;
+    font-weight: normal;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.about-image {
+    padding: 10px;
+    height: 220px;
+    width: 100%;
+    border-radius: 30px;
+}
+
+.about-heading {
+    color: #025906;
+    font-family: Lobster;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.about-details {
+    color: #000000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.about-button {
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    width: 130px;
+    margin-bottom: 5px;
+}
